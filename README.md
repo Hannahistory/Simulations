@@ -1,5 +1,5 @@
 # Simulations
-Simulations are currently available for internal uses only in the Bridge webpage.
+Simulations are currently available for internal uses only on the Bridge webpage.
 https://www.paleo.bristol.ac.uk/resources/simulations/
 If you need access, contact P.J.Valdes@bristol.ac.uk
 
